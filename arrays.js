@@ -5,3 +5,4 @@ function addElementToBeginningOfArray(array, element) {
   return array
   console.log(array)
 }
+addElementToBeginningOfArray(['time'], 'bella')
